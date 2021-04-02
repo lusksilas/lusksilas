@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lusksilas
+- 👀 I’m interested in wordpress theme development
+- 🌱 I’m currently learning PHP, Javascript and the TailwindCss Framework
+- 💞️ I’m looking to collaborate on Wordpress Theme Development
+- 📫 How to reach me ... just don't!
